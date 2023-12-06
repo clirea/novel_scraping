@@ -4,7 +4,7 @@ from urllib import request
 from bs4 import BeautifulSoup
 import re
 
-# 小説のURL
+# 小説のコードとタイトル
 CodeList = [
     {'code': 'n6316bn', 'title': '転生したらスライムだった件', 'Page': ''},
     ]
